@@ -34,17 +34,18 @@ A responsive and interactive weather application built with **HTML**, **CSS**, a
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+```
 
-2. Add Your API Key
+### 2. Add Your API Key
 Create a config.js file in the root folder and add:
 
 const apiKey = 'YOUR_OPENWEATHERMAP_API_KEY';
 ⚠️ Do not share or commit your API key publicly.
 
-3. Open in Browser
+### 3. Open in Browser
 Just open index.html in any modern web browser.
 
-📁 Project Structure
+### 📁 Project Structure
 
 ├── index.html
 ├── styles.css
@@ -60,13 +61,13 @@ Just open index.html in any modern web browser.
 🧪 API Reference
 OpenWeatherMap API: https://openweathermap.org/api
 
-📝 License
+### 📝 License
 This project is open source and available under the MIT License.
 
-🙌 Acknowledgements
+### 🙌 Acknowledgements
 OpenWeatherMap for the weather data
 
 Weather icons by Flaticon
 
-👤 Author
+### 👤 Author
 Suryansh Rai
